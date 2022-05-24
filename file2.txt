@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ciao deleted nel file 2 mammamia sono bellissimo
+=======
+ciao deleted nel file 2 wow
+>>>>>>> conflitBranch
